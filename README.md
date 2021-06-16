@@ -1,7 +1,8 @@
 
 # Boas vindas ao repositório do blogsApi!
 
-1 dos projetos avaliativos desenvolvido durante a formação full-Stack da TRYBE. O projeto tem foco no desenvolvimento usando Sequelize e Node.js e express.
+Um dos projetos avaliativos desenvolvido durante a formação full-Stack da TRYBE. O projeto tem foco no desenvolvimento usando ORM Sequelize e Node.js com express
+e MySql.
 
 ---
 # Endpoints!
